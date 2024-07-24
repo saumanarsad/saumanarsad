@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Hi, I'm [Your Name]
 
-<!--
-**saumanarsad/saumanarsad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Full Stack Software Engineer with a passion for building robust and scalable web applications. Currently, I am working at Dubizzle Labs as a Backend Engineer, specializing in **Laravel**.
 
-Here are some ideas to get you started:
+## 🛠️ Skills & Technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Backend:** PHP (Laravel), Node.js
+- **Frontend:** React, Next.js
+- **Mobile Development:** Flutter
+- **Programming Languages:** C, C++, TypeScript
+- **Others:** SQL, Git, Docker, RESTful APIs
+
+## 🚀 What I'm Working On
+
+At Dubizzle Labs, I focus on developing and maintaining backend services using Laravel, ensuring they are efficient and secure. My work involves everything from designing database schemas to implementing business logic and integrating third-party APIs.
+
+## 🌱 What I'm Learning
+
+I'm always eager to learn new technologies and frameworks. Recently, I've been diving deeper into cloud services, DevOps practices, and advanced JavaScript techniques.
+
+## 💬 Let's Connect
+
+I'm always open to discussing new projects, sharing knowledge, or just chatting about technology and development. Feel free to reach out to me via [LinkedIn](your-linkedin-url) or [Twitter](your-twitter-url).
+
+---
+
+"Code is like humor. When you have to explain it, it’s bad." – Cory House
