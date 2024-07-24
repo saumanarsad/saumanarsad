@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name]
+# 👋 Hi, I'm Sauman Arshad
 
 I am a Full Stack Software Engineer with a passion for building robust and scalable web applications. Currently, I am working at Dubizzle Labs as a Backend Engineer, specializing in **Laravel**.
 
@@ -20,7 +20,7 @@ I'm always eager to learn new technologies and frameworks. Recently, I've been d
 
 ## 💬 Let's Connect
 
-I'm always open to discussing new projects, sharing knowledge, or just chatting about technology and development. Feel free to reach out to me via [LinkedIn](your-linkedin-url) or [Twitter](your-twitter-url).
+I'm always open to discussing new projects, sharing knowledge, or just chatting about technology and development. Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/saumanarshad/).
 
 ---
 
