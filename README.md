@@ -19,8 +19,19 @@ At Dubizzle Labs, my role involves architecting backend systems, optimizing data
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=15&layout=compact)
-![Sauman's GitHub stats](https://github-readme-stats.vercel.app/api?username=saumanarsad&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=tokyonight)
+## 📊 My GitHub Stats
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saumanarshad&langs_count=15&layout=compact&theme=tokyonight" alt="Top Languages" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=saumanarshad&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=tokyonight" alt="Sauman's GitHub stats" />
+    </td>
+  </tr>
+</table>
+
 ## 🌱 Currently Exploring
 
 I'm always on the lookout for new technologies to broaden my skill set. Right now, I'm exploring advanced **JavaScript** frameworks, **cloud services**, and **DevOps** practices to enhance my development toolkit.
@@ -29,7 +40,7 @@ I'm always on the lookout for new technologies to broaden my skill set. Right no
 
 I'm keen on connecting with other developers and tech enthusiasts. Whether you have a project to discuss, a collaboration idea, or just want to chat about tech, feel free to reach out!
 
-- [LinkedIn](linkedin.com/in/saumanarshad/)
+- [LinkedIn](https://linkedin.com/in/saumanarshad/)
 
 ---
 
