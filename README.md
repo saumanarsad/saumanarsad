@@ -19,8 +19,17 @@ At Dubizzle Labs, my role involves architecting backend systems, optimizing data
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=saumanarsad&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=tokyonight"/>
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320" />
+</a>
+
+
+
 <a href="https://github.com/saumanarsad/github-readme-stats">
-  <img height=200 align="center" src="[https://github-readme-stats.vercel.app/api?username=anuraghazr](https://github-readme-stats.vercel.app/api?username=saumanarsad&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=tokyonight)a" />
+  <img height=200 align="center" src="[https://github-readme-stats.vercel.app/api?username=saumanarsad](https://github-readme-stats.vercel.app/api?username=saumanarsad&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=tokyonight)a"/>
 </a>
 <a href="https://github.com/saumanarsad/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=15&layout=compact" />
