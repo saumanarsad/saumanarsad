@@ -4,7 +4,7 @@ I'm a Full Stack Software Engineer passionate about creating impactful software 
 
 ## 🚀 What I Do
 
-At Dubizzle Labs, my role involves architecting backend systems, optimizing database interactions, and ensuring seamless integration with frontend services. Recently, I've been diving deep into **Filament PHP**, and even opened a [public issue](link-to-issue) in its repository to contribute to its improvement.
+At Dubizzle Labs, my role involves architecting backend systems, optimizing database interactions, and ensuring seamless integration with frontend services. Recently, I've been diving deep into **Filament PHP**, and also opened a [public issue](https://github.com/filamentphp/filament/issues/13598) in its repository to contribute to its improvement.
 
 ## 🛠️ My Tech Stack
 
