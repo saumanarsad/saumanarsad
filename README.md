@@ -27,14 +27,6 @@ At Dubizzle Labs, my role involves architecting backend systems, optimizing data
 </a>
 
 
-
-<a href="https://github.com/saumanarsad/github-readme-stats">
-  <img height=200 align="center" src="[https://github-readme-stats.vercel.app/api?username=saumanarsad](https://github-readme-stats.vercel.app/api?username=saumanarsad&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=tokyonight)a"/>
-</a>
-<a href="https://github.com/saumanarsad/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=15&layout=compact" />
-</a>
-
 ## 🌱 Currently Exploring
 
 I'm always on the lookout for new technologies to broaden my skill set. Right now, I'm exploring advanced **JavaScript** frameworks, **cloud services**, and **DevOps** practices to enhance my development toolkit.
