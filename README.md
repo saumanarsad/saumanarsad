@@ -20,7 +20,7 @@ At Dubizzle Labs, my role involves architecting backend systems, optimizing data
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=15&layout=compact)
-
+![Sauman's GitHub stats](https://github-readme-stats.vercel.app/api?username=saumanarsad&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 ## 🌱 Currently Exploring
 
 I'm always on the lookout for new technologies to broaden my skill set. Right now, I'm exploring advanced **JavaScript** frameworks, **cloud services**, and **DevOps** practices to enhance my development toolkit.
