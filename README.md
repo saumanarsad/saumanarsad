@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Sauman Arshad!
 
-I'm a Full Stack Software Engineer passionate about creating impactful software solutions. Currently, I work at **Dubizzle Labs** as a Software Engineer, where I primarily use **Laravel** to build scalable web applications.
+I'm a Full Stack Software Engineer passionate about creating impactful software solutions. Currently, I work at **Dubizzle Labs** as a Software Engineer, where I primarily use **Laravel** to build scalable web applications
 
 ## 🚀 What I Do
 
