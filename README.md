@@ -20,10 +20,10 @@ At Dubizzle Labs, my role involves architecting backend systems, optimizing data
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=saumanarsad&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=tokyonight"/>
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Saumanarshad&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=tokyonight"/>
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=saumanarsad&layout=compact&langs_count=8&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Saumanarshad&layout=compact&langs_count=8&card_width=320" />
 </a>
 
 
