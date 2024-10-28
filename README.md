@@ -23,7 +23,7 @@ At Dubizzle Labs, my role involves architecting backend systems, optimizing data
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=saumanarsad&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=tokyonight"/>
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=saumanarsad&layout=compact&langs_count=8&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=saumanarsad&layout=compact&langs_count=8&card_width=320&count_private=true" />
 </a>
 
 
